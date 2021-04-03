@@ -14,11 +14,11 @@
 - 🔭 I’m currently working on **Web Development & Design**
 - 🌱 Technologies **JavaScript, React Js, Redux, Express Js, Node Js and PHP**
 - 📫 How to reach me **tayloramitverma@gmail.com**
-<br>
+<br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=tayloramitverma&show_icons=true&locale=en" alt="tayloramitverma" /></p>
-<br> 
+<br/> 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tayloramitverma&show_icons=true&locale=en&layout=compact" alt="tayloramitverma" />  </p>
-<br>
+<br/>
 <p><img align="left" alt="Coding" src="https://i2.wp.com/i.giphy.com/media/349qKnoIBHK1i/giphy-downsized.gif?w=770&ssl=1"></p>
   </body>
 </html>

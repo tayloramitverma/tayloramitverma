@@ -17,11 +17,8 @@
 
 - 📫 How to reach me **tayloramitverma@gmail.com**
 
-  <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=tayloramitverma&show_icons=true&locale=en" alt="tayloramitverma" />
-    &nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=tayloramitverma&show_icons=true&locale=en&layout=compact" alt="tayloramitverma" />  </p>
- </p>
-  <br><br>
-  <p><img align="center" alt="Coding" width="460" src="https://i2.wp.com/i.giphy.com/media/349qKnoIBHK1i/giphy-downsized.gif?w=770&ssl=1"></p>
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=tayloramitverma&show_icons=true&locale=en" alt="tayloramitverma" /></p>
+ <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tayloramitverma&show_icons=true&locale=en&layout=compact" alt="tayloramitverma" />  </p>
+<br><br><p><img align="center" alt="Coding" width="460" src="https://i2.wp.com/i.giphy.com/media/349qKnoIBHK1i/giphy-downsized.gif?w=770&ssl=1"></p>
   </body>
 </html>

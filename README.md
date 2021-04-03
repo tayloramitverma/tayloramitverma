@@ -15,9 +15,7 @@
 - 🌱 Technologies **JavaScript, React Js, Redux, Express Js, Node Js and PHP**
 - 📫 How to reach me **tayloramitverma@gmail.com**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=tayloramitverma&show_icons=true&locale=en" alt="tayloramitverma" /></p>
-<p></p><p></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tayloramitverma&show_icons=true&locale=en&layout=compact" alt="tayloramitverma" />  </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=tayloramitverma&show_icons=true&locale=en" alt="tayloramitverma" /><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=tayloramitverma&show_icons=true&locale=en&layout=compact" alt="tayloramitverma" />  </p>
 
   </body>
 </html>

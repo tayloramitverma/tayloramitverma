@@ -5,7 +5,7 @@
   </head>
   <body>
     <h1 align="center">Hi , I'm Amit Verma</h1>
-<h3 align="center">Sr. Web Developer | Competitive Coder</h3>
+    <h3 align="center">Sr. Web Developer | Competitive Coder</h3>
     
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tayloramitverma&label=Profile%20views&color=0e75b6&style=flat" alt="tayloramitverma" /> </p>
 
@@ -17,9 +17,11 @@
 
 - 📫 How to reach me **tayloramitverma@gmail.com**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tayloramitverma&show_icons=true&locale=en&layout=compact" alt="tayloramitverma" /></p>
-<br><br><br>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=tayloramitverma&show_icons=true&locale=en" alt="tayloramitverma" /></p><br><br>
-<img align="left" alt="Coding" width="460" src="https://i2.wp.com/i.giphy.com/media/349qKnoIBHK1i/giphy-downsized.gif?w=770&ssl=1">
+  <p>
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=tayloramitverma&show_icons=true&locale=en" alt="tayloramitverma" />
+    &nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=tayloramitverma&show_icons=true&locale=en&layout=compact" alt="tayloramitverma" />  </p>
+ </p>
+  <br><br>
+  <p><img align="center" alt="Coding" width="460" src="https://i2.wp.com/i.giphy.com/media/349qKnoIBHK1i/giphy-downsized.gif?w=770&ssl=1"></p>
   </body>
 </html>

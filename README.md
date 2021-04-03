@@ -18,8 +18,8 @@
 - 📫 How to reach me **tayloramitverma@gmail.com**
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tayloramitverma&show_icons=true&locale=en&layout=compact" alt="tayloramitverma" /></p>
-<br>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=tayloramitverma&show_icons=true&locale=en" alt="tayloramitverma" /></p>
-<img align="center" alt="Coding" width="460" src="https://i2.wp.com/i.giphy.com/media/349qKnoIBHK1i/giphy-downsized.gif?w=770&ssl=1">
+<br><br><br>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=tayloramitverma&show_icons=true&locale=en" alt="tayloramitverma" /></p><br><br>
+<img align="left" alt="Coding" width="460" src="https://i2.wp.com/i.giphy.com/media/349qKnoIBHK1i/giphy-downsized.gif?w=770&ssl=1">
   </body>
 </html>

@@ -5,7 +5,7 @@
   </head>
   <body>
     <h1 align="center">Hi , I'm Amit Verma</h1>
-    <h3 align="center">Sr. Web Developer | Competitive Coder</h3>
+    <h3 align="center">Senior Web Developer | Competitive Coder</h3>
     
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tayloramitverma&label=Profile%20views&color=0e75b6&style=flat" alt="tayloramitverma" /> </p>
 
